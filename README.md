@@ -1,2 +1,2 @@
-# Afriven-Data-Group
+# REGENESYS BUSINESS SCHOOL 
 Data Science Project
